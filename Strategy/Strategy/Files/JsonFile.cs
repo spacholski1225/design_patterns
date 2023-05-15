@@ -2,7 +2,7 @@
 
 namespace Strategy.Files
 {
-    public class JsonFile : IFileStrategy
+    public class JsonFile : IFileFactory
     {
         public void ReadFile()
         {

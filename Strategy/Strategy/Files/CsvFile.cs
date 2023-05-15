@@ -2,7 +2,7 @@
 
 namespace Strategy.Files
 {
-    public class CsvFile : IFileStrategy
+    public class CsvFile : IFileFactory
     {
         public void ReadFile()
         {

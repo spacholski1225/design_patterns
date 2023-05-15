@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Strategy.csproj",
-      "projectName": "Strategy",
-      "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
+      "projectName": "Factory",
+      "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
       "packagesPath": "C:\\Users\\bld\\.nuget\\packages\\",
       "outputPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\obj\\",
       "projectStyle": "PackageReference",

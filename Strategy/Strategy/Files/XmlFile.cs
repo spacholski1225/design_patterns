@@ -2,7 +2,7 @@
 
 namespace Strategy.Files
 {
-    public class XmlFile : IFileStrategy
+    public class XmlFile : IFileFactory
     {
         public void ReadFile()
         {
