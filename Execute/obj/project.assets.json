@@ -11,19 +11,35 @@
         "runtime": {
           "bin/placeholder/Factory.dll": {}
         }
+      },
+      "Strategy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Strategy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Strategy.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "Factory/1.0.0": {
       "type": "project",
-      "path": "../Strategy/Strategy/Factory.csproj",
-      "msbuildProject": "../Strategy/Strategy/Factory.csproj"
+      "path": "../Factory/Factory.csproj",
+      "msbuildProject": "../Factory/Factory.csproj"
+    },
+    "Strategy/1.0.0": {
+      "type": "project",
+      "path": "../Strategy/Strategy.csproj",
+      "msbuildProject": "../Strategy/Strategy.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Factory >= 1.0.0"
+      "Factory >= 1.0.0",
+      "Strategy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +69,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj": {
-              "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj"
+            "C:\\Sources\\design_patterns\\Factory\\Factory.csproj": {
+              "projectPath": "C:\\Sources\\design_patterns\\Factory\\Factory.csproj"
+            },
+            "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj": {
+              "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj"
             }
           }
         }

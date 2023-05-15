@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj": {}
+    "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj": {
+    "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
-        "projectName": "Factory",
-        "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
+        "projectUniqueName": "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj",
+        "projectName": "Strategy",
+        "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\bld\\.nuget\\packages\\",
-        "outputPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\obj\\",
+        "outputPath": "C:\\Sources\\design_patterns\\Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bld\\AppData\\Roaming\\NuGet\\NuGet.Config",

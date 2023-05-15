@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
+      "projectUniqueName": "C:\\Sources\\design_patterns\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\Factory.csproj",
+      "projectPath": "C:\\Sources\\design_patterns\\Factory\\Factory.csproj",
       "packagesPath": "C:\\Users\\bld\\.nuget\\packages\\",
-      "outputPath": "C:\\Sources\\design_patterns\\Strategy\\Strategy\\obj\\",
+      "outputPath": "C:\\Sources\\design_patterns\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bld\\AppData\\Roaming\\NuGet\\NuGet.Config",
