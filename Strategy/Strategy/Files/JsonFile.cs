@@ -1,6 +1,6 @@
-﻿using Strategy.Interfaces;
+﻿using Factory.Interfaces;
 
-namespace Strategy.Files
+namespace Factory.Files
 {
     public class JsonFile : IFileFactory
     {

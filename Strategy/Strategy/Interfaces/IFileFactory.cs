@@ -1,6 +1,6 @@
-﻿namespace Strategy.Interfaces
+﻿namespace Factory.Interfaces
 {
-    public interface IFileStrategy
+    public interface IFileFactory
     {
         public void SaveFile();
 
