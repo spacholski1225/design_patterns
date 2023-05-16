@@ -8,4 +8,9 @@
     <BaseOutputPath>bin\</BaseOutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Factory\Factory.csproj" />
+    <ProjectReference Include="..\Strategy\Strategy.csproj" />
+  </ItemGroup>
+
 </Project>

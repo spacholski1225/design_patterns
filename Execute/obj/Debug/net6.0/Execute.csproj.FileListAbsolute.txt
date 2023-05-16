@@ -16,3 +16,5 @@ C:\Sources\design_patterns\Execute\obj\Debug\net6.0\Execute.dll
 C:\Sources\design_patterns\Execute\obj\Debug\net6.0\ref\Execute.dll
 C:\Sources\design_patterns\Execute\obj\Debug\net6.0\Execute.pdb
 C:\Sources\design_patterns\Execute\obj\Debug\net6.0\Execute.genruntimeconfig.cache
+C:\Sources\design_patterns\Execute\bin\Debug\net6.0\Factory.dll
+C:\Sources\design_patterns\Execute\bin\Debug\net6.0\Factory.pdb

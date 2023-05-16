@@ -1,0 +1,12 @@
+C:\Sources\design_patterns\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Sources\design_patterns\Factory\bin\Debug\net6.0\Factory.dll
+C:\Sources\design_patterns\Factory\bin\Debug\net6.0\ref\Factory.dll
+C:\Sources\design_patterns\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.dll
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\ref\Factory.dll
+C:\Sources\design_patterns\Factory\obj\Debug\net6.0\Factory.pdb

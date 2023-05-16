@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v6.0": {
       "Execute/1.0.0": {
         "dependencies": {
+          "Factory": "1.0.0",
           "Strategy": "1.0.0"
         },
         "runtime": {
           "Execute.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "runtime": {
+          "Factory.dll": {}
         }
       },
       "Strategy/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Execute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
